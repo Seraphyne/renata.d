@@ -41,6 +41,6 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 
 - Please visit my [portfolio]()
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/renatafd/?locale=en_US).
-- Send me an email [Email](renata.f.dickinson@gmail.com).
+- Send me an email [Email](mailto:renata.f.dickinson@gmail.com?subject=[GitHub]).
 
 <hr> 
