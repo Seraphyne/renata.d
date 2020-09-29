@@ -16,6 +16,9 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-ReactRouter-informational?style=flat&logo=react&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Enzyme-informational?style=flat&logo=enzyme&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Cypress.io-informational?style=flat&logo=cypress&chait&logoColor=white&color=sucess)
 
 ### Back-End:
 
@@ -25,9 +28,7 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=jwt&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-Mocha&Chai-informational?style=flat&logo=mocha&chait&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&logoColor=white&color=sucess)
-![](https://img.shields.io/badge/Code-Enzyme-informational?style=flat&logo=enzyme&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-Supertest-informational?style=flat&logo=supertest&chait&logoColor=white&color=sucess)
-![](https://img.shields.io/badge/Code-Cypress.io-informational?style=flat&logo=cypress&chait&logoColor=white&color=sucess)
 
 
 ### Dev Tools:
@@ -41,7 +42,7 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=sucess)
 
-## 📌🔍 Contact 
+## 📌📇 Contact 
 <hr> 
 
 - Please visit my [portfolio]()
