@@ -45,9 +45,9 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ## 📌📇 Contact 
 <hr> 
 
-- Please visit my [portfolio](https://renatadickinson.netlify.app/)
+- Please visit my [portfolio](https://renatadickinson.netlify.app/).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/renatafd/?locale=en_US).
-- Check my [HackerRank](https://www.hackerrank.com/renata_dickinson?hr_r=1)
+- Check my [HackerRank](https://www.hackerrank.com/renata_dickinson?hr_r=1).
 - Send me an email [Email](mailto:renata.f.dickinson@gmail.com?subject=[GitHub]).
 
 <hr> 
