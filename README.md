@@ -19,6 +19,9 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ![](https://img.shields.io/badge/Code-ReactRouter-informational?style=flat&logo=react&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-Enzyme-informational?style=flat&logo=enzyme&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-Cypress.io-informational?style=flat&logo=cypress&chait&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=sucess)
 
 ### Back-End:
 
