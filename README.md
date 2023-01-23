@@ -3,7 +3,7 @@
 
 Originally from _Belo Horizonte, Brazil_, now living in _Dallas-Fort Worth Metroplex_. 
 
-I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, GitHub, Node.js, PostgreSQL and JWT. I have decided that programming is my passion and enrolled in the full-time Engineering Immersion program at **Thinkful**, where I built a strong foundation in responsive web design and full stack web development.
+I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, GitHub, Node.js, PostgreSQL and JWT. I completed the full-time Engineering Immersion program at **Thinkful**, where I built a strong foundation in responsive web design and full stack web development.
 
 
 ## 📌💻 Technologies
