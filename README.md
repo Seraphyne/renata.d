@@ -1,8 +1,6 @@
 ##   Hi, my name is Renata! 👩‍🦰👩‍💻🐶
 <hr> 
 
-Originally from _Belo Horizonte, Brazil_, now living in _Dallas-Fort Worth Metroplex_. 
-
 I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, GitHub, Node.js, PostgreSQL and JWT. I completed the full-time Engineering Immersion program at **Thinkful**, where I built a strong foundation in responsive web design and full stack web development.
 
 
@@ -46,6 +44,7 @@ I am a full stack developer specialized in JavaScript, CSS, HTML, React, Git, Gi
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Railway-informational?style=flat&logo=railway&logoColor=white&color=sucess)
 
 ## 📌📇 Contact 
 <hr> 
